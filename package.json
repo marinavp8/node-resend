@@ -1,0 +1,22 @@
+{
+  "name": "resend",
+  "version": "1.0.0",
+  "author": "",
+  "main": "index.js",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "start": "bun run index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "resend": "^2.0.0"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
